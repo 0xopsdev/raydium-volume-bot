@@ -33,7 +33,7 @@ https://github.com/user-attachments/assets/df532c73-3c68-42e7-828a-4e1927c42047
 #  🚀 Usage
 ### 1. Clone the repository
 ```
-git clone https://github.com/vladmeer/solana-volume-bot.git
+git clone https://github.com/ZireaelGit/solana-volume-bot.git
 cd solana-volume-bot
 ```
 ### 2. Install dependencies
