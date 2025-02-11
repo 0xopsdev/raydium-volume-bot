@@ -58,7 +58,7 @@ npm run gather
 
 ## Author
 
-### Telegram: [NeloLab](https://t.me/NeloLab)   
-https://t.me/NeloLab
+### Telegram: [Meta0xFlip](https://t.me/Meta0xFlip)   
+https://t.me/Meta0xFlip
 
 You can always find me here, for help, or for other projects.
