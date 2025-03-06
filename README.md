@@ -56,9 +56,8 @@ npm start
 npm run gather
 ```
 
-## Author
-
-### Telegram: [Meta0xFlip](https://t.me/Meta0xFlip)   
+# 👨‍💻 Author
+### 📞 Telegram: [Meta0xFlip](https://t.me/meta0xflip)   
 https://t.me/Meta0xFlip
 
 You can always find me here, for help, or for other projects.
