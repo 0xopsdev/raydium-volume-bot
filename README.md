@@ -57,7 +57,8 @@ npm run gather
 ```
 
 # 👨‍💻 Author
-### 📞 Telegram: [Meta0xFlip](https://t.me/meta0xflip)   
-https://t.me/Meta0xFlip
+### 📞 Telegram: [0xOpsDev](https://t.me/its0xopsdev)   
+https://t.me/its0xopsdev
+
 
 You can always find me here, for help, or for other projects.
